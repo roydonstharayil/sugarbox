@@ -1,0 +1,7 @@
+blog:
+   pattern:  /blog
+   defaults: { _controller: BlogBundle:Blog:index }
+
+blog_new:
+    pattern:  /blog/new
+    defaults: { _controller: BlogBundle:Blog:new }

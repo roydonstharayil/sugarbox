@@ -1,0 +1,1211 @@
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T02:28:21+05:30 INFO: Failed finding controller "HelloBundle:Hello" from namespace "Application" (Application\HelloBundle\Controller\HelloController)
+2010-08-23T02:28:21+05:30 INFO: Failed finding controller "HelloBundle:Hello" from namespace "Bundle" (Bundle\HelloBundle\Controller\HelloController)
+2010-08-23T02:28:21+05:30 INFO: Failed finding controller "HelloBundle:Hello" from namespace "Symfony\Bundle" (Symfony\Bundle\HelloBundle\Controller\HelloController)
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T02:28:21+05:30 ERR: RuntimeException: Unable to find controller "HelloBundle:Hello". (for route "hello" in resource "/var/www/sugarbox/blog/config/routing.yml") (uncaught exception)
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T02:28:21+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T02:28:21+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T02:28:21+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T02:28:21+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T02:28:21+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T02:28:21+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T02:28:21+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T02:28:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T02:29:05+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T02:29:05+05:30 INFO: Failed finding controller "HelloBundle:Hello" from namespace "Application" (Application\HelloBundle\Controller\HelloController)
+2010-08-23T02:29:05+05:30 INFO: Failed finding controller "HelloBundle:Hello" from namespace "Bundle" (Bundle\HelloBundle\Controller\HelloController)
+2010-08-23T02:29:05+05:30 INFO: Failed finding controller "HelloBundle:Hello" from namespace "Symfony\Bundle" (Symfony\Bundle\HelloBundle\Controller\HelloController)
+2010-08-23T02:29:05+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T02:29:05+05:30 ERR: RuntimeException: Unable to find controller "HelloBundle:Hello". (for route "hello" in resource "/var/www/sugarbox/blog/config/routing.yml") (uncaught exception)
+2010-08-23T02:29:05+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T02:29:05+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T02:29:05+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T02:29:05+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T02:29:05+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T02:29:05+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T02:29:05+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T02:29:05+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T02:29:05+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T02:29:05+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T02:29:05+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T02:29:05+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T02:29:05+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T02:29:05+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T02:29:05+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T02:29:06+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T02:30:21+05:30 INFO: Failed finding controller "BlogBundle:Hello" from namespace "Application" (Application\BlogBundle\Controller\HelloController)
+2010-08-23T02:30:21+05:30 INFO: Failed finding controller "BlogBundle:Hello" from namespace "Bundle" (Bundle\BlogBundle\Controller\HelloController)
+2010-08-23T02:30:21+05:30 INFO: Failed finding controller "BlogBundle:Hello" from namespace "Symfony\Bundle" (Symfony\Bundle\BlogBundle\Controller\HelloController)
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T02:30:21+05:30 ERR: RuntimeException: Unable to find controller "BlogBundle:Hello". (for route "hello" in resource "/var/www/sugarbox/blog/config/routing.yml") (uncaught exception)
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T02:30:21+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T02:30:21+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T02:30:21+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T02:30:21+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T02:30:21+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T02:30:21+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T02:30:21+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T02:30:21+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T02:30:59+05:30 INFO: Failed finding controller "BlogBundle:Hello" from namespace "Application" (Application\BlogBundle\Controller\HelloController)
+2010-08-23T02:30:59+05:30 INFO: Failed finding controller "BlogBundle:Hello" from namespace "Bundle" (Bundle\BlogBundle\Controller\HelloController)
+2010-08-23T02:30:59+05:30 INFO: Failed finding controller "BlogBundle:Hello" from namespace "Symfony\Bundle" (Symfony\Bundle\BlogBundle\Controller\HelloController)
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T02:30:59+05:30 ERR: RuntimeException: Unable to find controller "BlogBundle:Hello". (for route "hello" in resource "/var/www/sugarbox/blog/config/routing.yml") (uncaught exception)
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T02:30:59+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T02:30:59+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T02:30:59+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T02:30:59+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T02:30:59+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T02:30:59+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T02:30:59+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T02:30:59+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T02:32:07+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T02:32:07+05:30 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'Symfony\\Bundle\\FrameworkBundle\\Controller\\DefaultController::indexAction',  '_route' => 'homepage',))
+2010-08-23T02:32:07+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\DefaultController::indexAction"
+2010-08-23T02:32:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-23T02:32:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T02:32:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T02:32:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T02:32:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:30:40+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:30:40+05:30 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'Symfony\\Bundle\\FrameworkBundle\\Controller\\DefaultController::indexAction',  '_route' => 'homepage',))
+2010-08-23T18:30:40+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\DefaultController::indexAction"
+2010-08-23T18:30:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-23T18:30:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:30:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:30:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:30:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:30:45+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:30:45+05:30 ERR: No route found for /blog
+2010-08-23T18:30:45+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T18:30:45+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:30:45+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T18:30:45+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:30:45+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:30:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:30:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:30:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:30:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:30:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:30:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:30:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:30:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:30:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:30:45+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:30:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:30:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:30:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:30:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:37:33+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:37:33+05:30 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'Symfony\\Bundle\\FrameworkBundle\\Controller\\DefaultController::indexAction',  '_route' => 'homepage',))
+2010-08-23T18:37:33+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\DefaultController::indexAction"
+2010-08-23T18:37:33+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-23T18:37:33+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:37:33+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:37:33+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:37:33+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:37:39+05:30 ERR: No route found for /blog/new
+2010-08-23T18:37:39+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:37:39+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:37:39+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:37:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:37:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:37:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:37:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:37:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:37:39+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:37:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:37:45+05:30 ERR: No route found for /blog/
+2010-08-23T18:37:45+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:37:45+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:37:45+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:37:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:37:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:37:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:37:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:37:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:37:45+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:37:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:39:25+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:39:25+05:30 INFO: Matched route "homepage" (parameters: array (  '_controller' => 'Symfony\\Bundle\\FrameworkBundle\\Controller\\DefaultController::indexAction',  '_route' => 'homepage',))
+2010-08-23T18:39:25+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\DefaultController::indexAction"
+2010-08-23T18:39:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Default/index.php" (renderer: php)
+2010-08-23T18:39:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:39:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:39:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:39:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:39:40+05:30 ERR: No route found for /blog/
+2010-08-23T18:39:40+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:39:40+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:39:40+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:39:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:39:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:39:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:39:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:39:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:39:40+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:39:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:41:45+05:30 ERR: No route found for /blog/
+2010-08-23T18:41:45+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:41:45+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:41:45+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:41:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:41:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:41:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:41:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:41:45+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:41:45+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:41:45+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:41:46+05:30 ERR: No route found for /blog/
+2010-08-23T18:41:46+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:41:46+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:41:46+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:41:46+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:41:46+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:41:46+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:41:46+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:41:46+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:41:46+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:41:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:47:42+05:30 ERR: No route found for /blog/
+2010-08-23T18:47:42+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:47:42+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:47:42+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:47:42+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:47:42+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:47:42+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:47:42+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:47:42+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:47:42+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:47:42+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:48:36+05:30 ERR: No route found for /blog/
+2010-08-23T18:48:36+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:48:36+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:48:36+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:48:36+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:48:36+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:48:36+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:48:36+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:48:36+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:48:36+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:48:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:49:39+05:30 ERR: No route found for /blog/
+2010-08-23T18:49:39+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:49:39+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:49:39+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:49:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:49:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:49:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:49:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:49:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:49:39+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:49:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:49:47+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:49:47+05:30 INFO: Matched route "blog" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::indexAction',  '_route' => 'blog',))
+2010-08-23T18:49:47+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::indexAction"
+2010-08-23T18:49:47+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/index.php" (renderer: php)
+2010-08-23T18:49:47+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-23T18:49:47+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-23T18:49:47+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:49:47+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:49:47+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:49:47+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:50:14+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:50:14+05:30 ERR: InvalidArgumentException: Method "Application\BlogBundle\Controller\BlogController::newAction" does not exist. (uncaught exception)
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:50:14+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:50:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:50:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:50:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:50:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:50:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:50:14+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:50:56+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:50:56+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T18:50:56+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T18:50:56+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:50:56+05:30 ERR: ErrorException: Warning: DOMDocument::schemaValidate(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Validator/MessageInterpolator/XliffMessageInterpolator.php line 61 (uncaught exception)
+2010-08-23T18:50:56+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:50:56+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:50:56+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:50:56+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:50:56+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:50:56+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:50:56+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:50:57+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:50:57+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:50:57+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:50:57+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:50:57+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:50:57+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:50:57+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:50:57+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:50:57+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:53:37+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:53:37+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T18:53:37+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T18:53:37+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:53:37+05:30 ERR: ErrorException: Warning: DOMDocument::schemaValidate(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Validator/MessageInterpolator/XliffMessageInterpolator.php line 61 (uncaught exception)
+2010-08-23T18:53:37+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:53:37+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:53:37+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:53:37+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:53:37+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:53:37+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:53:37+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:53:38+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:53:38+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:53:38+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:53:38+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:53:38+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:53:38+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:53:38+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:53:38+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:53:38+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:53:39+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:53:39+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T18:53:39+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T18:53:39+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:53:39+05:30 ERR: ErrorException: Warning: DOMDocument::schemaValidate(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Validator/MessageInterpolator/XliffMessageInterpolator.php line 61 (uncaught exception)
+2010-08-23T18:53:39+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:53:39+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:53:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:53:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:53:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:53:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:53:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:53:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:53:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:53:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:53:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:53:39+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:53:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:53:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:53:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:53:40+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T18:53:40+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:53:40+05:30 ERR: ErrorException: Warning: DOMDocument::schemaValidate(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Validator/MessageInterpolator/XliffMessageInterpolator.php line 61 (uncaught exception)
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:53:40+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:53:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:53:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:53:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:53:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:53:40+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:53:40+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:53:40+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:53:41+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T18:53:41+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:53:41+05:30 ERR: ErrorException: Warning: DOMDocument::schemaValidate(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Validator/MessageInterpolator/XliffMessageInterpolator.php line 61 (uncaught exception)
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:53:41+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:53:41+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:53:41+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:53:41+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:53:41+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:53:41+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:53:41+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:53:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:53:51+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:53:51+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T18:53:51+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T18:55:02+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:55:02+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T18:55:02+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T18:55:45+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:55:45+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T18:55:45+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T18:56:25+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:56:25+05:30 ERR: ErrorException: Warning: DOMDocument::schemaValidate(http://www.w3.org/2001/xml.xsd): failed to open stream: HTTP request failed!  in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Validator/MessageInterpolator/XliffMessageInterpolator.php line 61 (uncaught exception)
+2010-08-23T18:56:25+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:56:25+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:56:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:56:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:56:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:56:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:56:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:56:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:56:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:56:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:56:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:56:25+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:56:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:56:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:56:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:56:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:58:14+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T18:58:14+05:30 ERR: ErrorException: Warning: DOMDocument::schemaValidate(): Invalid Schema in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Validator/MessageInterpolator/XliffMessageInterpolator.php line 61 (uncaught exception)
+2010-08-23T18:58:14+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:58:14+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T18:58:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T18:58:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T18:58:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T18:58:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T18:58:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T18:58:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:58:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:58:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:58:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:58:14+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T18:58:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T18:58:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T18:58:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T18:58:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T18:59:52+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T18:59:52+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T18:59:52+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:06:17+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:06:17+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:06:17+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:07:40+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:07:40+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:07:40+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:09:06+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:09:06+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:09:06+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:28:57+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:28:57+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:28:57+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:28:57+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T19:28:57+05:30 ERR: ErrorException: Warning: DOMDocument::schemaValidate(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Validator/MessageInterpolator/XliffMessageInterpolator.php line 61 (uncaught exception)
+2010-08-23T19:28:57+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:28:57+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T19:28:57+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T19:28:57+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T19:28:57+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T19:28:57+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T19:28:57+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T19:28:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T19:28:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T19:28:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T19:28:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T19:28:58+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T19:28:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T19:28:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T19:28:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T19:28:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T19:29:28+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:29:28+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:29:28+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:31:48+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:31:48+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:31:48+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:31:48+05:30 INFO: Failed loading template file "/var/www/sugarbox/blog/views/BlogBundle/Blog/new.php" (renderer: php)
+2010-08-23T19:31:48+05:30 INFO: Failed loading template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-23T19:31:48+05:30 INFO: Failed loading template file "/var/www/sugarbox/blog/../src/Bundle/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-23T19:31:48+05:30 INFO: Failed loading template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-23T19:31:48+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T19:31:48+05:30 ERR: InvalidArgumentException: The template "BlogBundle:Blog:new" does not exist (renderer: php). (uncaught exception)
+2010-08-23T19:31:48+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:31:48+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T19:31:48+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T19:31:48+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T19:31:48+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T19:31:48+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T19:31:48+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T19:31:48+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T19:31:48+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T19:31:48+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T19:31:48+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T19:31:48+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T19:31:48+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T19:31:48+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T19:31:48+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T19:31:49+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T19:35:07+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:35:07+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:35:07+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:35:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-23T19:35:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-23T19:35:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-23T19:35:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T19:35:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T19:35:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T19:35:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T19:35:22+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:35:22+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:35:22+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:35:22+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-23T19:35:22+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-23T19:35:22+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-23T19:35:22+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T19:35:22+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T19:35:22+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T19:35:22+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T19:37:37+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:37:37+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:37:37+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:37:37+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-23T19:37:37+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-23T19:37:37+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-23T19:37:37+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T19:37:37+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T19:37:37+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T19:37:37+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T19:39:24+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:39:24+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:39:24+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:39:24+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-23T19:39:24+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-23T19:39:24+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-23T19:39:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T19:39:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T19:39:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T19:39:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T19:41:12+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:41:12+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:41:12+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:41:55+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:41:55+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:41:55+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:42:14+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:42:14+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:42:14+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:47:10+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:47:10+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:47:10+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:47:41+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:47:41+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:47:41+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:50:07+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:50:07+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:50:07+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:51:24+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:51:24+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:51:24+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T19:51:56+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T19:51:56+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T19:51:56+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:42:11+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:42:11+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:42:11+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:42:12+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:42:12+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:42:12+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:43:09+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:43:09+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:43:09+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:44:49+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:44:49+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:44:49+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:44:49+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T20:44:49+05:30 ERR: ErrorException: Runtime Notice: Non-static method Symfony\Component\HttpKernel\HttpKernel::getRequest() should not be called statically, assuming $this from incompatible context in /var/www/sugarbox/src/Application/BlogBundle/Controller/BlogController.php line 31 (uncaught exception)
+2010-08-23T20:44:49+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:44:49+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T20:44:49+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T20:44:49+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T20:44:49+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T20:44:49+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T20:44:49+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T20:44:49+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T20:44:49+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T20:44:49+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T20:44:49+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T20:44:49+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T20:44:49+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T20:44:49+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T20:44:49+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T20:44:50+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T20:45:13+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:45:13+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:45:13+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:47:08+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:47:08+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T20:47:08+05:30 ERR: ErrorException: Warning: Missing argument 1 for Symfony\Component\Form\Form::bind(), called in /var/www/sugarbox/src/Application/BlogBundle/Controller/BlogController.php on line 32 and defined in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Form/Form.php line 168 (uncaught exception)
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:47:08+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T20:47:08+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T20:47:08+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T20:47:08+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T20:47:08+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T20:47:08+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T20:47:08+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T20:47:08+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T20:48:21+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:48:21+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:48:21+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:49:34+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:49:34+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:49:34+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:50:50+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:50:50+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:50:50+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:52:14+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:52:14+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:52:14+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:52:46+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:52:46+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:52:46+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:54:37+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:54:37+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:54:37+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:57:37+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:57:37+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:57:37+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:57:38+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:57:38+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:57:38+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:57:49+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:57:49+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:57:49+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:58:01+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:58:01+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:58:15+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:58:15+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:58:15+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:58:15+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-23T20:58:15+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-23T20:58:15+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-23T20:58:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T20:58:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T20:58:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T20:58:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T20:58:23+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T20:58:23+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T20:58:23+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T20:58:23+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-23T20:58:23+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-23T20:58:23+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-23T20:58:23+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T20:58:23+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T20:58:23+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T20:58:23+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:04:59+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:04:59+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:05:15+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:05:15+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:05:15+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:05:15+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-23T21:05:15+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-23T21:05:15+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-23T21:05:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:05:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:05:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:05:16+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:06:52+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:06:52+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:06:52+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:10:51+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:10:51+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:10:51+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:11:49+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:11:49+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:11:49+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:13:06+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:13:06+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:13:06+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:13:50+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:13:50+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:13:50+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:14:51+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:14:51+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:14:51+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:19:12+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:19:12+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:19:12+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:35:26+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:35:26+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:35:26+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:35:58+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:35:58+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:35:58+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:41:06+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:41:06+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:41:06+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:41:06+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T21:41:06+05:30 ERR: ErrorException: Catchable Fatal Error: Argument 1 passed to Symfony\Component\Form\Form::doBind() must be an array, string given, called in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Form/Form.php on line 180 and defined in /var/www/sugarbox/src/vendor/symfony/src/Symfony/Component/Form/Form.php line 206 (uncaught exception)
+2010-08-23T21:41:06+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:41:06+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T21:41:06+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T21:41:06+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T21:41:06+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T21:41:06+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T21:41:06+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T21:41:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:41:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:41:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:41:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:41:07+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T21:41:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:41:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:41:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:41:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:42:25+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:42:25+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T21:42:25+05:30 ERR: PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title' cannot be null (uncaught exception)
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:42:25+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T21:42:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T21:42:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T21:42:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T21:42:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T21:42:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:42:25+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:42:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:42:58+05:30 ERR: No route found for /blog/
+2010-08-23T21:42:58+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T21:42:58+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:42:58+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T21:42:58+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T21:42:58+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T21:42:58+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T21:42:58+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T21:42:58+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:42:58+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:42:58+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:43:03+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:43:03+05:30 INFO: Matched route "blog" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::indexAction',  '_route' => 'blog',))
+2010-08-23T21:43:03+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::indexAction"
+2010-08-23T21:43:03+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/index.php" (renderer: php)
+2010-08-23T21:43:03+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-23T21:43:03+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-23T21:43:03+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:43:03+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:43:03+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:43:03+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:43:07+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:43:07+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T21:43:07+05:30 ERR: PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title' cannot be null (uncaught exception)
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:43:07+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T21:43:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T21:43:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T21:43:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T21:43:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T21:43:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:43:07+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:43:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:55:18+05:30 ERR: No route found for /blog/
+2010-08-23T21:55:18+05:30 ERR: Unable to look for the controller as the "_controller" parameter is missing
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T21:55:18+05:30 ERR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: Unable to find the controller. (uncaught exception)
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:55:18+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T21:55:18+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T21:55:18+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T21:55:18+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T21:55:18+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T21:55:18+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:55:18+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:55:18+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:55:22+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:55:22+05:30 INFO: Matched route "blog" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::indexAction',  '_route' => 'blog',))
+2010-08-23T21:55:22+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::indexAction"
+2010-08-23T21:55:22+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/index.php" (renderer: php)
+2010-08-23T21:55:22+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-23T21:55:22+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-23T21:55:22+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:55:22+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:55:22+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:55:22+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:55:25+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T21:55:25+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T21:55:25+05:30 ERR: PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title' cannot be null (uncaught exception)
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T21:55:25+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T21:55:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T21:55:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T21:55:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T21:55:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T21:55:25+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T21:55:25+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T21:55:25+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T22:01:16+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T22:01:16+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T22:01:16+05:30 ERR: PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title' cannot be null (uncaught exception)
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T22:01:16+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T22:01:16+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T22:01:16+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T22:01:16+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T22:01:16+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T22:01:16+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T22:01:16+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T22:01:16+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T22:01:42+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T22:01:42+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T22:01:42+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T23:48:39+05:30 INFO: Matched route "blog" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::indexAction',  '_route' => 'blog',))
+2010-08-23T23:48:39+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::indexAction"
+2010-08-23T23:48:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/index.php" (renderer: php)
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T23:48:39+05:30 ERR: ErrorException: Notice: Use of undefined constant name - assumed 'name' in /var/www/sugarbox/src/Application/BlogBundle/Resources/views/Blog/index.php line 3 (uncaught exception)
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T23:48:39+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T23:48:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T23:48:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T23:48:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T23:48:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T23:48:39+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T23:48:39+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T23:48:39+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T23:50:13+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T23:50:13+05:30 INFO: Matched route "blog" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::indexAction',  '_route' => 'blog',))
+2010-08-23T23:50:13+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::indexAction"
+2010-08-23T23:50:13+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/index.php" (renderer: php)
+2010-08-23T23:50:13+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T23:50:13+05:30 ERR: ErrorException: Catchable Fatal Error: Object of class Symfony\Component\OutputEscaper\ArrayDecorator could not be converted to string in /var/www/sugarbox/src/Application/BlogBundle/Resources/views/Blog/index.php line 3 (uncaught exception)
+2010-08-23T23:50:13+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T23:50:13+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T23:50:13+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T23:50:13+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T23:50:13+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T23:50:13+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T23:50:13+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T23:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T23:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T23:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T23:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T23:50:14+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T23:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T23:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T23:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T23:50:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T23:51:07+05:30 INFO: Matched route "blog" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::indexAction',  '_route' => 'blog',))
+2010-08-23T23:51:07+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::indexAction"
+2010-08-23T23:51:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/index.php" (renderer: php)
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T23:51:07+05:30 ERR: ErrorException: Notice: Undefined variable: request in /var/www/sugarbox/src/Application/BlogBundle/Resources/views/Blog/index.php line 3 (uncaught exception)
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T23:51:07+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T23:51:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T23:51:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T23:51:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T23:51:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T23:51:07+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T23:51:07+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T23:51:07+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T23:52:28+05:30 INFO: Matched route "blog" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::indexAction',  '_route' => 'blog',))
+2010-08-23T23:52:28+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::indexAction"
+2010-08-23T23:52:28+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/index.php" (renderer: php)
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-23T23:52:28+05:30 ERR: ErrorException: Notice: Undefined variable: request in /var/www/sugarbox/src/Application/BlogBundle/Resources/views/Blog/index.php line 3 (uncaught exception)
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T23:52:28+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-23T23:52:28+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-23T23:52:28+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-23T23:52:28+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-23T23:52:28+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-23T23:52:28+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T23:52:28+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-23T23:52:28+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-23T23:52:34+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T23:52:34+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T23:52:34+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-23T23:53:00+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-23T23:53:00+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-23T23:53:00+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:15:17+05:30 INFO: Matched route "blog" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::indexAction',  '_route' => 'blog',))
+2010-08-24T00:15:17+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::indexAction"
+2010-08-24T00:15:17+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/index.php" (renderer: php)
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-24T00:15:17+05:30 ERR: ErrorException: Notice: Undefined variable: request in /var/www/sugarbox/src/Application/BlogBundle/Resources/views/Blog/index.php line 3 (uncaught exception)
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:15:17+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-24T00:15:17+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-24T00:15:17+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-24T00:15:17+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-24T00:15:17+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-24T00:15:17+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:15:17+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:15:17+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:15:57+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:15:57+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:16:20+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:16:20+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:16:20+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:16:20+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-24T00:16:20+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-24T00:16:20+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-24T00:16:20+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:16:20+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:16:20+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:16:20+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:16:36+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:16:36+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:16:36+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:16:36+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-24T00:16:36+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-24T00:16:36+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-24T00:16:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:16:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:16:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:16:36+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:19:48+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:19:48+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:19:48+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:23:17+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:23:17+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:23:17+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:24:03+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:24:03+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:24:03+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:24:43+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:24:43+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:25:03+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:25:03+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:25:03+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:25:04+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-24T00:25:04+05:30 ERR: RuntimeException: The controller must return a response (instead of NULL). (uncaught exception)
+2010-08-24T00:25:04+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:25:04+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-24T00:25:04+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-24T00:25:04+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-24T00:25:04+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-24T00:25:04+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-24T00:25:04+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-24T00:25:04+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:25:04+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:25:04+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:25:04+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:25:04+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-24T00:25:04+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:25:04+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:25:04+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:25:04+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:25:54+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:25:54+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-24T00:25:54+05:30 ERR: RuntimeException: The controller must return a response (instead of NULL). (uncaught exception)
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:25:54+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-24T00:25:54+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-24T00:25:54+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-24T00:25:54+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-24T00:25:54+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-24T00:25:54+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:25:54+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:25:54+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:26:46+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:26:46+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:26:46+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:26:46+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-24T00:26:46+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-24T00:26:46+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-24T00:26:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:26:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:26:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:26:46+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:27:41+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:27:41+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:27:41+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:27:41+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-24T00:27:41+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-24T00:27:41+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-24T00:27:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:27:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:27:41+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:27:42+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:28:15+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:28:15+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:28:15+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:28:15+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-24T00:28:15+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-24T00:28:15+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-24T00:28:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:28:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:28:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:28:15+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:28:30+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:28:30+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:28:30+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:28:30+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-24T00:28:30+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-24T00:28:30+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-24T00:28:30+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:28:30+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:28:30+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:28:30+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:31:24+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:31:24+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (until) event "core.exception" to listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)"
+2010-08-24T00:31:24+05:30 ERR: PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title' cannot be null (uncaught exception)
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:31:24+05:30 INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::exceptionAction"
+2010-08-24T00:31:24+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/exception.php" (renderer: php)
+2010-08-24T00:31:24+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/styles.php" (renderer: php)
+2010-08-24T00:31:24+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/logs.php" (renderer: php)
+2010-08-24T00:31:24+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/traces.php" (renderer: php)
+2010-08-24T00:31:24+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Exception/trace.php" (renderer: php)
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:31:24+05:30 DEBUG: Listener "(Symfony\Bundle\FrameworkBundle\Debug\ExceptionListener, handle)" processed the event "core.exception"
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:31:24+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:31:51+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:31:51+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:31:51+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:31:51+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-24T00:31:51+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-24T00:31:51+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-24T00:31:51+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:31:51+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:31:51+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:31:51+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:32:50+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:32:50+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:32:50+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:33:26+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:33:26+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:33:26+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:33:26+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-24T00:33:26+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-24T00:33:26+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-24T00:33:26+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:33:26+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:33:26+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:33:26+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
+2010-08-24T00:35:13+05:30 DEBUG: Notifying (until) event "core.request" to listener "(Symfony\Bundle\FrameworkBundle\RequestListener, resolve)"
+2010-08-24T00:35:13+05:30 INFO: Matched route "blog_new" (parameters: array (  '_controller' => 'Application\\BlogBundle\\Controller\\BlogController::newAction',  '_route' => 'blog_new',))
+2010-08-24T00:35:13+05:30 INFO: Using controller "Application\BlogBundle\Controller\BlogController::newAction"
+2010-08-24T00:35:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views/Blog/new.php" (renderer: php)
+2010-08-24T00:35:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/../src/Application/BlogBundle/Resources/views//layout.php" (renderer: php)
+2010-08-24T00:35:14+05:30 INFO: Loaded template file "/var/www/sugarbox/blog/views///layout.php" (renderer: php)
+2010-08-24T00:35:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Cache\EsiListener, filter)"
+2010-08-24T00:35:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\ResponseListener, filter)"
+2010-08-24T00:35:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\ProfilerListener, handle)"
+2010-08-24T00:35:14+05:30 DEBUG: Notifying (filter) event "core.response" to listener "(Symfony\Component\HttpKernel\Profiler\WebDebugToolbarListener, handle)"
