@@ -1,9 +1,4 @@
 <?php
-/* 
- * This is the part of SiMBiOSis
- * coyright  Roydon roydon@don.com
- */
-
 
 declare(ENCODING = 'utf-8');
 namespace Application\BlogBundle\Entity;
