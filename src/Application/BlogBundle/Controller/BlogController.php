@@ -24,7 +24,16 @@ class BlogController extends Controller
         $blog = new Blog();
 
         $form = new BlogForm('blog', $blog, $this->container->getValidatorService());
-        //TODO
+        if($data = $this['request']->request->get($form->getName())) {
+            $form->bind($data);
+            if($form->isValid()) {
+
+                $this->getEntityManager()->persist($blog);
+                $this->getEntityManager()->flush();
+
+                return $this->redirect('blog');
+            }
+        }
        
         return $this->render('BlogBundle:Blog:new', array(
             'form' => $form
@@ -32,6 +41,10 @@ class BlogController extends Controller
         
     }
     protected function getEntityManager()
+    {
+        return $this->container->getDoctrine_ORM_EntityManagerService();
+    }
+
     
     
 }

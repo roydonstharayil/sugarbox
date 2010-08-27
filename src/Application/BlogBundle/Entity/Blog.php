@@ -7,7 +7,7 @@ use Symfony\Component\Validator\Mapping\ClassMetadata;
 use Symfony\Component\Validator\Constraints;
 
 /**
- * @Entity(repositoryClass="Bundle\BlogBundle\Entity\BlogRepository")
+ * @Entity(repositoryClass="Application\BlogBundle\Entity\BlogRepository")
  * @Table(name="posts")
  * @HasLifecycleCallbacks
  */
